@@ -38,7 +38,7 @@ Berikut adalah framework yang saya kembangkan untuk menyelesaikan kasus ini:
 ---
 
 ## 🎯 How to Use
-1. Buka file presentasi di folder `[Task-Intro to Data Analytics]/`.
+1. Buka file presentasi di folder `[Task: Intro to Data Analytics]`.
 2. Gunakan kerangka ini untuk membangun solusi berbasis data yang mendalam.
 
 ---
