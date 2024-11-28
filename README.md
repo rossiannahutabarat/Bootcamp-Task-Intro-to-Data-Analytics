@@ -32,7 +32,7 @@ Berikut adalah framework yang saya kembangkan untuk menyelesaikan kasus ini:
 
 ## 📂 File Repository
 **[Task: Intro to Data Analytics](https://docs.google.com/presentation/d/1jIcTkrkMCsqV6KHFxtDi771kvDf5D3T1/edit?usp=sharing&ouid=107948863460405350066&rtpof=true&sd=true/)**  
-   Folder ini berisi Google Slide Show dalam format PDF dan PPTX untuk presentasi framework.
+   Folder ini berisi Google Slide Show dalam format PDF untuk presentasi framework.
 
 
 ---
