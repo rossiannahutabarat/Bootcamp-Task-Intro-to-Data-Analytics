@@ -17,8 +17,10 @@ Berikut adalah framework yang saya kembangkan untuk menyelesaikan kasus ini:
 
 #### 3. **Data**  
 - Data yang digunakan dalam analisis.  
-  - Sumber data: Keluhan pelanggan dari formulir online.
-  - Tipe data: Data kategorikal (status keluhan, metode pelaporan), data numerik (kode ZIP), data waktu (tanggal keluhan).
+  - When
+  - What
+  - Who
+  - Where
 
 #### 4. **Point to be Checked / Initial Hypotheses**  
 - Hipotesis awal yang diuji dalam analisis:  
