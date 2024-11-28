@@ -29,18 +29,15 @@ Berikut adalah framework yang saya kembangkan untuk menyelesaikan kasus ini:
 ---
 
 ## 📂 File Repository
-1. **[slides/](slides/)**  
+**[slides/](https://docs.google.com/presentation/d/1jIcTkrkMCsqV6KHFxtDi771kvDf5D3T1/edit?usp=sharing&ouid=107948863460405350066&rtpof=true&sd=true/)**  
    Folder ini berisi Google Slide Show dalam format PDF dan PPTX untuk presentasi framework.
-   
-2. **[assets/](assets/)**  
-   Folder ini berisi gambar pendukung seperti diagram framework dan chart hipotesis.
+
 
 ---
 
 ## 🎯 How to Use
-1. Buka file presentasi di folder `slides/`.
-2. Lihat diagram framework di folder `assets/`.
-3. Gunakan kerangka ini untuk membangun solusi berbasis data yang mendalam.
+1. Buka file presentasi di folder `[slides](https://docs.google.com/presentation/d/1jIcTkrkMCsqV6KHFxtDi771kvDf5D3T1/edit?usp=sharing&ouid=107948863460405350066&rtpof=true&sd=true)/`.
+2. Gunakan kerangka ini untuk membangun solusi berbasis data yang mendalam.
 
 ---
 
