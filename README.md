@@ -1,5 +1,5 @@
-# Mini Task: Intro to Data Analytics  
-Repository ini berisi hasil pengerjaan mini task **Intro to Data Analytics** yang mencakup pembentukan **Analytical Thinking Framework** untuk sebuah studi kasus.
+# Task: Intro to Data Analytics  
+Repository ini berisi hasil pengerjaan task **Intro to Data Analytics** yang mencakup pembentukan **Analytical Thinking Framework** untuk sebuah studi kasus.
 
 ## 📌 Case Overview
 Sebagai seorang analis data, Anda diminta untuk menyusun kerangka berpikir analitis untuk memahami dan menyelesaikan permasalahan berbasis data.  
@@ -29,14 +29,14 @@ Berikut adalah framework yang saya kembangkan untuk menyelesaikan kasus ini:
 ---
 
 ## 📂 File Repository
-**[MiniTask-Intro to Data Analytics](https://docs.google.com/presentation/d/1jIcTkrkMCsqV6KHFxtDi771kvDf5D3T1/edit?usp=sharing&ouid=107948863460405350066&rtpof=true&sd=true/)**  
+**[Task-Intro to Data Analytics](https://docs.google.com/presentation/d/1jIcTkrkMCsqV6KHFxtDi771kvDf5D3T1/edit?usp=sharing&ouid=107948863460405350066&rtpof=true&sd=true/)**  
    Folder ini berisi Google Slide Show dalam format PDF dan PPTX untuk presentasi framework.
 
 
 ---
 
 ## 🎯 How to Use
-1. Buka file presentasi di folder `[MiniTask-Intro to Data Analytics]/`.
+1. Buka file presentasi di folder `[Task-Intro to Data Analytics]/`.
 2. Gunakan kerangka ini untuk membangun solusi berbasis data yang mendalam.
 
 ---
